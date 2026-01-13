@@ -1,0 +1,5 @@
+projekt-mabel/          ← Hauptverzeichnis
+│  package.json          ← hier speichern
+└─ pages/
+   └─ api/
+       └─ chat.ts       ← hier ist die API-Datei
